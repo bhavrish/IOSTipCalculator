@@ -14,6 +14,7 @@
 		452A14DB21471B630081E2DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 452A14D921471B630081E2DB /* LaunchScreen.storyboard */; };
 		452A14E621471B630081E2DB /* tippyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 452A14E521471B630081E2DB /* tippyTests.swift */; };
 		452A14F121471B630081E2DB /* tippyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 452A14F021471B630081E2DB /* tippyUITests.swift */; };
+		452A14FF2147282E0081E2DB /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 452A14FE2147282E0081E2DB /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		452A14EC21471B630081E2DB /* tippyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tippyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		452A14F021471B630081E2DB /* tippyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tippyUITests.swift; sourceTree = "<group>"; };
 		452A14F221471B630081E2DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		452A14FE2147282E0081E2DB /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		452A14C421471B610081E2DB = {
 			isa = PBXGroup;
 			children = (
+				452A14FE2147282E0081E2DB /* SettingsViewController.swift */,
 				452A14CF21471B610081E2DB /* tippy */,
 				452A14E421471B630081E2DB /* tippyTests */,
 				452A14EF21471B630081E2DB /* tippyUITests */,
@@ -258,6 +261,7 @@
 			files = (
 				452A14D321471B610081E2DB /* ViewController.swift in Sources */,
 				452A14D121471B610081E2DB /* AppDelegate.swift in Sources */,
+				452A14FF2147282E0081E2DB /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

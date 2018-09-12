@@ -1,0 +1,1 @@
+Tippy is a tip calculator designed to allow users to estimate how much money they will be tipping when they are at restaruant. It is user friendly in that the user gets to choose what background setting he/ she wants (mango, mint, or coastal).
